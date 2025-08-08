@@ -1,0 +1,1 @@
+rootProject.name = "job4j_elementary_gradle"
